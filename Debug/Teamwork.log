@@ -1,0 +1,6 @@
+﻿  Teamwork.cpp
+Teamwork.cpp(43): warning C4244: '=': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+Teamwork.cpp(87): warning C4101: 'sumArray': variable local sin referencia
+Teamwork.cpp(105): warning C4551: la llamada a la función no tiene lista de argumentos
+c:\users\javie\desktop\fcr\fcr\teamwork.cpp(90): warning C4706: asignación en la expresión condicional
+LINK : fatal error LNK1104: no se puede abrir el archivo 'ucrtd.lib'
